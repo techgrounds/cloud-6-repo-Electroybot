@@ -6,10 +6,12 @@ Iedereen: Gebruik 10 minuten om de antwoorden te bedenken op de gegeven vragen. 
 Achteraf: Plaats een kopie van de retro in je eigen repository.
 
 ## Wat ging goed?
- - Voorbeeld: We gebruikten de Pomedoro techniek en dat was heel fijn om mee te werken.
+ - De samenwerking ging goed. Vragen werden gesteld, antwoorden werden gegeven en screensharing werd toegepast.
+ - Zelfstandig benodigde tutorialpages of tutorials op Youtube opzoeken.
+ - 
 
 ## Wat kan beter?
- - Voorbeeld: We deden iets te lang over onze standups.
+ - Stukje time management. 
 
 ## Wat kunnen wij doen om het te verbeteren?
- - Voorbeeld: Tijdens een standup gaan wij elkaar beter op de rit houden.
+ - Werken met een tijdschema.
