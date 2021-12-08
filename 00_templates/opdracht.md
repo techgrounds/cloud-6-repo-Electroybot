@@ -31,7 +31,7 @@ Git commando om aanpassingen van een branch samen te voegen met een andere branc
 ## Opdracht
 ### Gebruikte bronnen
 
-- ['Wat is Github?](https://programmeerplaats.nl/wat-is-github)
+- ['Watt is Github?](https://programmeerplaats.nl/wat-is-github)
 
 ### Ervaren problemen
 - Forken van peers @ GitHub (browser).
