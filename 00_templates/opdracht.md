@@ -39,4 +39,4 @@ Git commando om aanpassingen van een branch samen te voegen met een andere branc
 - Ontstaan tijdsgebrek.
 
 ### Resultaat
-Problemen opgelost.
+Problemen opgelost dankzij zoeken en peer-overleg.
