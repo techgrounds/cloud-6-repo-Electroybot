@@ -3,16 +3,16 @@ Een CDN is een gedistributeerd netwerk dat fungeert als een cache van webpagina'
 
 Pros & cons
 
-+ De eindgebruiker (bezoeker) ervaart een snellere website, vooral als er 
-+ Beter opvangen van bezoekerspieken dankzij grote scalingsmogelijkheden
-+ Beter bescherming tegen DDos-aanvallen - botverkeersaanvallen worden door
-+ Verspreiding van *user requests*, dus minder dataverkeer naar de oorspronkelijke server
++++ De eindgebruiker (bezoeker) ervaart een snellere website
++++ Beter opvangen van bezoekerspieken dankzij grote scalingsmogelijkheden
++++ Beter bescherming tegen DDos-aanvallen (botverkeersaanvallen)
++++ Verspreiding van *user requests*, dus minder dataverkeer naar de oorspronkelijke server
 
-- Extra kosten naast de normale hosting.
-- Het instellen vereist kennis, als je dit gaat uitbesteden heb je nog meer kosten.
-- De cache moet soms geleegd worden als er wijzigingen zijn geweest aan de website om deze zichtbaar te maken
+--- Extra kosten naast de normale hosting.
+--- Het instellen vereist kennis, als je dit gaat uitbesteden heb je nog meer kosten.
+--- De cache moet soms geleegd worden als er wijzigingen zijn geweest aan de website om deze zichtbaar te maken
 
-Het is niet nodig voor iedere website. Als je een website hebt die veel bezoekers heeft en/of internationale bezoekers kent, dan kan het interessant zijn.
+Het is niet nodig voor iedere website, maar als je een website hebt die veel bezoekers heeft en/of internationale bezoekers kent, dan kan het interessant zijn.
 
 https://youtu.be/Bsq5cKkS33I
 

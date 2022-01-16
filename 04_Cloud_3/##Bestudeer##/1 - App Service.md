@@ -8,4 +8,3 @@ https://azure.microsoft.com/en-us/services/app-service/#overview
 
 https://youtu.be/4BwyqmRTrx8
 
-00_includes\App services flowchart.png
