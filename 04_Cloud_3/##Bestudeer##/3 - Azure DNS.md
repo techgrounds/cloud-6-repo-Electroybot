@@ -1,4 +1,4 @@
-# Azure DNS #
+# Azure DNS  
 
 Allereerst plaats kort wat een DNS (**Domain Name Server**) is. 
 Een DNS zorgt ervoor dat servers wereldwijd bereikbaar zijn met behulp van namen in plaats van een numeriek ip-adres. 

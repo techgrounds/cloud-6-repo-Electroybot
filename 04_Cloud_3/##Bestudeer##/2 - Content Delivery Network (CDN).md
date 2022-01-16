@@ -1,4 +1,4 @@
-### Content Delivery Network (CDN)*
+# Content Delivery Network (CDN)*
 Een CDN is een gedistributeerd netwerk dat fungeert als een cache van webpagina's op verschillende geografische locaties, dus de naam zegt het al: het is een (wereldwijd) netwerk van servers die content leveren. De inhoud van deze cache is *statisch*, en bevat bijvoorbeeld foto's, video's, JavaScript. De inhoud bijvoorbeeld van je winkelwagentje tijdens je bezoek aan een webshop is *dynamisch* en zal, net als alle andere dynamische content, opgeslagen worden bij de webhoster zelf.
 
 Pros & cons

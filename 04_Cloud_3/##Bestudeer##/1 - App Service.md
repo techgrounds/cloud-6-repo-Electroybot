@@ -1,4 +1,4 @@
-### App Service*
+# App Service*
 Volledig beheerde hostingomgeving (server) met o.a. ingebouwd(e) infrastructuuronderhoud, beveilingspatches en scalingsmogelijkheden (scale up + scale out). Kent een *high availability* (SLA 99,95%).
 
 
