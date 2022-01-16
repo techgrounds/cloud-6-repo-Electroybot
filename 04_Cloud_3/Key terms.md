@@ -58,7 +58,8 @@ Iedere VM die opgezet wordt in het Virtual Network wordt automatisch aan watdano
 Als je over verschillende Virtual Networks wenst te gaan
 
 https://youtu.be/Hiohn35DIqA
-
+https://nl.wikipedia.org/wiki/Domain_Name_System
+https://docs.microsoft.com/en-us/azure/dns/dns-overview
 
 ### Azure Files**
 
@@ -69,15 +70,26 @@ Ook is het mogelijk om bijvoorbeeld printers te delen, zolang het SMB-protocol o
 
 
 
-
-
-
 https://cloud.netapp.com/blog/azure-anf-blg-azure-files-the-basics-and-a-quick-deployment-guide#H_H4
 
 https://www.writeclick.co.il/nfs-vs-smb-a-crash-course-on-network-file-sharing/
 
 ### Cosmos DB**	
-Cosmos DB is een databaseplatform en onderdeel van Azure. Het wordt door bedrijven gebruikt voor de opslag van grote hoeveelheden data.
+Cosmos DB is een databaseplatform (NoSQL = Not Only SQL. Meer dan één opslagmechanisme kan naar behoefte worden gebruikt) en onderdeel van Azure. Het wordt door bedrijven gebruikt voor de opslag van grote hoeveelheden data (zals Coca Cola, en Citrix) en is gechikt voor de ontwikkeling van apps. Het is snel (gegearandeerde responsetijden van) en erg goed schaalbaar, waardoor je het wereldwijd kunt inzetten.
+
+Ze ondersteunen 4 soorten databases:
+
+1) Key-value databases
+2) Document databases
+3) Wide Colomn databases
+4) Graph databases
+
+Deze databases zijn met verschillende API's aan te sturen.
+
+https://www.tottadatalab.nl/2017/10/11/wat-betekent-nosql/
+https://www.blazeclan.com/blog/dive-deep-types-nosql-databases/
+https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
+
 
 ### Azure Database ( + managed instance)**
 Git commando om aanpassingen naar je (remote) repository te sturen, die staat op GitHub.

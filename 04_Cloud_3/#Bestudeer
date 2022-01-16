@@ -2,34 +2,34 @@ Onderwerpen
 
 Cloud Fundamentals Week 4
 
-Introductie:
+**Introductie:**
 Vanaf deze week zullen wij, als Learning Coaches, jullie minder opdrachten geven. Vanaf vandaag zullen wij meer beroep doen op je zelfstandig leervaardigheden. Geen zorgen, je bent niet alleen. Je hebt elkaar en de vaste dagelijkse structuur blijft bestaan waarin je ons nog altijd de oren van ons hoofd kan vragen.
 
 Onderwerpen die je onder de kop “Bestudeer” vindt verwachten wij dat je alleen op een theoretisch niveau hoeft te kennen. Van onderwerpen onder de kop “Opdrachten” moet je ook praktische ervaring opbouwen.
 
-Handige vragen die je in gedachten kan (/moet) houden tijdens je onderzoek naar de onderwerpen:
+**Handige vragen die je in gedachten kan (/moet) houden tijdens je onderzoek naar de onderwerpen:**
 
 - Waar is X voor?
 - Hoe past X / vervangt X in een klassieke setting?
 - Hoe kan ik X combineren met andere diensten?
 - Wat is het verschil tussen X en andere gelijksoortige diensten?
 
-Een handige lijst van taken die je praktisch moet kunnen:
+**Een handige lijst van taken die je praktisch moet kunnen:**
 
 - Waar kan ik deze dienst vinden in de console?
 - Hoe zet ik deze dienst aan?
 - Hoe kan ik deze dienst koppelen aan andere resources?
 
-Bestudeer:
+**Bestudeer:**
 
-App Service 					/ Elastic Beanstalk
-Content Delivery Network (CDN) 		/ CloudFront
-Azure DNS 					/ Route53
+App Service 					
+Content Delivery Network (CDN) 		
+Azure DNS 					
 
-Benodigdheden:
-Je Azure omgeving				/ AWS omgeving
+**Benodigdheden:**
+Je Azure omgeving				
 
-Opdracht:
+**Opdracht:**
 
 - Azure Files			
 - CosmosDB				
