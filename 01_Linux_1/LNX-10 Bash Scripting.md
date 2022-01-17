@@ -16,23 +16,20 @@ Your VM.
 ## Exercise 1:
 
 **- Create a directory called ‘scripts’. Place all the scripts you make in this directory.**  
-
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/01.png?raw=true)
 
 **- Add the scripts directory to the PATH variable.** 
-
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/02%2001.png?raw=true)
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/02%2002.png?raw=true)
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/02%2003.png?raw=true)
 
 **- Create a script that appends a line of text to a text file whenever it is executed.**  
-
-
-
-
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/03%2001.png?raw=true)
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/03%2002.png?raw=true)
 
 **- Create a script that installs the httpd package, activates httpd, and enables httpd. Finally, your script should print the status of httpd in the terminal.**  
-
-
-
-
-
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/04%2001.png?raw=true)
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/04%2002.png?raw=true)  
 
 ## Variables:
 
