@@ -25,7 +25,7 @@ Om een nieuwe map te maken, gebruik je het commando **'mkdir'** en met **'ls'** 
 Er zijn diverse teksteditors. Ik heb gespeeld met meerdere editors en vergat in eerste instantie een screenshot te nemen, maar dit alsnog gedaan:    
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-02/04.png?raw=true)  
 
-## Key terms
+## Key terms  
 
 ### pwd   
 Het pwd commando (*print working directory*) geeft in een Unix-omgeving (een familie van besturingssystemen) de naam van de huidige werkdirectory weer.  

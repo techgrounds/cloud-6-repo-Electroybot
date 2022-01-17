@@ -9,10 +9,10 @@ Some actions require (root) permissions.
 
 Users, passwords, and groups are all stored in  (different) files across the system.
 
-## Requirements:
+## Requirements
 Your CentOS VM
 
-## Exercise:
+## Exercise
 **- Create a new user in your VM.**  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-05/01.png?raw=true)  
 

@@ -1,6 +1,6 @@
 # LNX-4 : Working with text (CLI)
 
-## Introduction
+## Introduction  
 Every command in Linux has a standard input and output.
 The standard input (stdin) is the keyboard. If I run ‘mkdir myfolder’, the mkdir command will know what folder to create, because I typed ‘myfolder’.
 The standard output (stdout) is the terminal. The command ‘echo hello’ will write ‘hello’ in the terminal.
@@ -8,11 +8,11 @@ The standard output (stdout) is the terminal. The command ‘echo hello’ will 
 Both the input and output can be redirected to a file instead of the default. This is called input redirection and output redirection. 
 A pipe can be used to have the output of one command be the input of another command.
 
-## Requirements:
+## Requirements  
 - Your VM
 - A text file with 2 lines of text
 
-## Exercise:
+## Exercise  
 
 **- Use the echo command and output redirection to write a new sentence into your text file using the command line. The new sentence should contain the word ‘techgrounds’.**  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-04/01.png?raw=true)
@@ -25,7 +25,7 @@ Uiteraard heb ik Google gebruikt om mijn opdrachten te kunnen maken. Tijdens mij
 Met '**ack**' liep ik helaas vast. Na trial and error:  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-04/03.png?raw=true)  
 
-## Key terms
+## Key terms  
 
 ### echo  
 Hiermee kun je een tekenreeks weergeven in de je terminal.  
@@ -42,7 +42,7 @@ grep [OPTIES] ZOEKPATROON [BESTAND(EN)]
 ### ack  
 Lijkt op grep, moet eerst nog geinstalleerd worden. Ack is uitgebreider en gebruiksvriendelijker, mits je weet hoe je het moet gebruiken en dat was in mijn geval nog niet zo.  
 
-## Bronnen  
+## Bronnen
 
 - https://www.howtogeek.com/446071/how-to-use-the-echo-command-on-linux/  
 - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-ack-a-grep-replacement-for-developers-on-ubuntu-14-04  

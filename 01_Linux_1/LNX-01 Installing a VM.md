@@ -1,4 +1,4 @@
-# Introduction:  
+# Introduction  
 
 Linux, like Windows or MacOS, is an operating system. It manages the communication between the physical device (hardware) and all computer programs (software).
 Linux is the most popular operating system for servers, because it is lightweight, stable, highly customizable, and free to use. Due to the open source licensing, everyone is allowed to build and distribute new versions of Linux.  
@@ -9,11 +9,11 @@ Using a virtual machine (VM), you can run a Linux machine within your own comput
 
 During this course we will run a Linux distribution called CentOS 8, which is based on RedHat Enterprise Linux (RHEL).  
 
-## Requirements:  
+## Requirements    
 - VirtualBox (hypervisor software) (https://www.virtualbox.org/)
 - A CentOS iso file (virtual installation disc) (http://isoredirect.centos.org/centos/8/isos/x86_64/)
 
-## Exercise:
+## Exercise  
 
 - Install a CentOS 8 virtual machine on your laptop.
 - Once installation and setup are complete, take a snapshot of the VM. This will act as a checkpoint in case you break the machine on accident (or on purpose).
