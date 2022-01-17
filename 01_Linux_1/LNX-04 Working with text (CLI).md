@@ -28,19 +28,19 @@ Met '**ack**' liep ik helaas vast. Na trial and error:
 
 ## Key terms
 
-### Echo  
+### echo  
 Hiermee kun je een tekenreeks weergeven in de je terminal.  
 De algemene syntax van het commando luidt:  
 
 echo [OPTIES] STRING  
 
-### Grep  
+### grep  
 Hiermee doorzoek je de inhoud van tekstbestanden.  
 Gebruik grep volgens deze syntax:  
 
 grep [OPTIES] ZOEKPATROON [BESTAND(EN)]  
 
-### Ack  
+### ack  
 Lijkt op grep, moet eerst nog geinstalleerd worden. Ack is uitgebreider en gebruiksvriendelijker, mits je weet hoe je het moet gebruiken en dat was in mijn geval nog niet zo.  
 
 

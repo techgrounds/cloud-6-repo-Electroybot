@@ -25,7 +25,21 @@ Om een nieuwe map te maken, gebruik je het commando **'mkdir'** en met **'ls'** 
 Er zijn diverse teksteditors. Ik heb gespeeld met meerdere editors en vergat in eerste instantie een screenshot te nemen, maar dit alsnog gedaan:    
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-02/04.png?raw=true)  
 
-### Bronnen  
+## Key terms
+
+### pwd   
+Het pwd commando (*print working directory*) geeft in een Unix-omgeving (een familie van besturingssystemen) de naam van de huidige werkdirectory weer.  
+
+### ls  
+Met dit commando geef de bestandslijst in een directory weer (*list*).  
+
+### mkdir  
+Met dit commando maak je een nieuwe directory aan.  
+
+### Vi(M), Atom, Nano  
+Teksteditors in Linux.  
+
+## Bronnen  
 
 - https://www.guru99.com/linux-commands-cheat-sheet.html#1  
 - https://askubuntu.com/questions/846605/how-to-create-a-directory-within-your-home-directory-linux  
