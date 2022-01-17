@@ -18,7 +18,7 @@ De Total Cost of Ownership (TCO) wordt gebruikt om te berekenen hoeveel een infr
 
 ## Bestudeer
 - De Azure principes voor kostenmanagement  
-![Kijk]()
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-02/01.png?raw=true)  
 - De voorwaarden van de `Free subscription`  
 - Het verschil tussen CAPEX (Capital Expenditure) en OPEX (Operational Expenditure)  
 ### Wat is het verschil tussen Capex en Opex?
@@ -45,6 +45,8 @@ De Total Cost of Ownership (TCO) wordt gebruikt om te berekenen hoeveel een infr
 - Kantooroverhead  
 - Reiskosten  
 
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-02/02.png?raw=true)  
+
 ## De TCO-calculator  
 Total Cost of Ownership (TCO) Calculator.
 
@@ -54,17 +56,11 @@ Understand and work with Azure Cost Management scopes.
 
 ### Opdracht:
 Maak een alert aan waarmee je eigen Cloud Pass kan monitoren (alert instellen belangrijk, Cloud Pass is iets ouds = een student account, je subsciption).
-Geen scope geselecteerd, wel rondgeklikt.
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-02/03.png?raw=true)  
+Ik heb een alert ingesteld als er meer dan € 5,00 aan kosten worden gemaakt. Deze werden overschreven en toen heb ik zoals gewenst de volgende melding gekregen:  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-02/04.png?raw=true)  
 
-
-
-
-
-
-UPDATE 19-12-2021:
-laatste screenie
-
-Begrijp de opties die Azure aanbiedt om je uitgaven in te zien
+**Kortom: begrijp de opties die Azure aanbiedt om je uitgaven in te zien.**  
 
 ## Key terms
 
