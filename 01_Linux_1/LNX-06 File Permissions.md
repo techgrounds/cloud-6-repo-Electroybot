@@ -12,22 +12,22 @@ Your CentOS VM
 
 ## Exercise:
 **- Create a text file.**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/01.png?raw=true)  
 
 **- Make a long listing to view the file’s permissions.**  
-https://phoenixnap.com/kb/linux-file-permissions 
+Screenshot heb ik niet meer, maar deze pagina heb ik gebruikt: https://phoenixnap.com/kb/linux-file-permissions  
 
 **- Who is the file’s owner and group?**   
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/02.png?raw=true)  
 
 **- What kind of permissions does the file have?**  
-https://chmod-calculator.com/ 
-
-
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/03.png?raw=true)
 
 **- Make the file executable by adding the execute permission (x).**  
-https://youtu.be/XSQIy2lnz3w 
-
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/04.png?raw=true)
 
 **- Remove the read and write permissions (rw) from the file for the group and everyone else, but not for the owner. Can you still read it?**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/05.png?raw=true)
 
 
 
