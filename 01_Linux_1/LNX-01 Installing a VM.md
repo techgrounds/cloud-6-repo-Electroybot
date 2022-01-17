@@ -26,5 +26,3 @@ Vervolgens heb ik de terminal geopend en kijk aan..
 
 ![Gelukt!](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-01/Screenie%20whoami.PNG?raw=true)
 
-
-
