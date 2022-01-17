@@ -56,7 +56,7 @@ Create a script that generates a random number between 1 and 10, stores it in a 
 Bash scripts gebruik je om te automatiseren.  
 
 ### PATH variable
-Deze variabele geeft een set van mappen aan waar executable programma's staan waarmee je naar kunt zoeken vanaf je opdrachtregel/terminal.  
+Deze variabele geeft een set van mappen aan waar executable programma's staan waar je naar kunt zoeken met je opdrachtregel/terminal.  
 
 ## Bronnen
 
