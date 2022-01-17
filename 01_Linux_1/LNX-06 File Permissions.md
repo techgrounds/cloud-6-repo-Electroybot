@@ -38,6 +38,11 @@ En kijk aan, leesbaar:
 **- Change the group ownership of the file to a different group.**  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/08.png?raw=true)  
 
+## Key terms
+
+
+
+
 ## Bronnen
 - https://phoenixnap.com/kb/linux-file-permissions 
 - https://chmod-calculator.com/

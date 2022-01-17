@@ -38,3 +38,6 @@ Je Azure omgeving
 - Event Grid
 - Queue Storage
 - Service Bus
+
+
+Docker is a containerization platform, and Kubernetes is a container orchestrator for container platforms like Docker.

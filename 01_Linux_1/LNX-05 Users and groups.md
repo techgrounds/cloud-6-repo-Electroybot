@@ -40,10 +40,10 @@ Met het commando usermod kun je reeds aangemaakte gebruikersaccounts bewerken.
 Net als het commando cat, zorgt tail ervoor dat de inhoud van een bestand getoond wordt, met één groot verschil: je krijgt alleen de laatste regels te zien. Standaard worden de laatste 10 regels getoond, maar dat kan je wijzigen met de -n flag.
 
 Als je bijvoorbeeld de laatste regels van een groot bestand wil zien, gebruik je dit:
-tail test.txt
+tail voorbeeld.txt
 
 En om alleen de laatste vier regels te bekijken:
-tail -n 4 long.txt
+tail -n 4 voorbeeld.txt
 
 ## Bronnen
 
