@@ -14,10 +14,10 @@ Your CentOS VM
 ## Exercise
 
 **- Start the ssh daemon.**  
-Deze heb ik eerst geinstalleerd:  
+Deze heb ik eerst geinstalleerd:   
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-07/01.png?raw=true)
 
-Et voilà:
+Et voilà:  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-07/01%202.png?raw=true)
 
 **- Find out the PID of the ssh daemon.**  
