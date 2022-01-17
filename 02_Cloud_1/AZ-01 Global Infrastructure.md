@@ -33,5 +33,5 @@ Omdat niet alle services in iedere region worden aangeboden. Dus dan kun je moge
 
 ## Bronnen:
 
-- AZ-900 Episode 7 | Geographies, Regions & Availability Zones | Microsoft Azure Fundamentals Course  
+- https://www.youtube.com/watch?v=C-nNw1mGwzE
 - https://docs.microsoft.com/en-us/azure/availability-zones/az-overview  
