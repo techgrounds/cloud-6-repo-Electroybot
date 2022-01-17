@@ -55,7 +55,7 @@ Je Azure Cloud omgeving.
 Understand and work with Azure Cost Management scopes.
 
 ### Opdracht:
-Maak een alert aan waarmee je eigen Cloud Pass kan monitoren (alert instellen belangrijk, Cloud Pass is iets ouds = een student account, je subsciption).
+Maak een alert aan waarmee je eigen Cloud Pass kan monitoren (alert instellen belangrijk, Cloud Pass is iets ouds = een student account, je subsciption).  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-02/03.png?raw=true)  
 Ik heb een alert ingesteld als er meer dan € 5,00 aan kosten worden gemaakt. Deze werden overschreven en toen heb ik zoals gewenst de volgende melding gekregen:  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-02/04.png?raw=true)  
