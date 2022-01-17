@@ -43,10 +43,18 @@ Maak een VM met de volgende vereisten:
     systemctl restart apache2  
 - Controleer of je server werkt.  
 
+### De VM draait in de Azure Portal:  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-06/01.png?raw=true)  
+
+### En is benaderbaar via Putty:
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-06/02.png?raw=true)  
+
 ### Let op! Vergeet na de opdracht niet alles weer weg te gooien. Je kan elk onderdeel individueel verwijderen, of je kan in 1 keer de resource group verwijderen.  
 Dum-di-di-dum-done.  
 
 ## Keyterms
+
+Az
 
 ## Bronnen
 
