@@ -14,18 +14,19 @@ Your CentOS VM
 
 ## Exercise:
 **- Create a new user in your VM.**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-05/01.png?raw=true)  
 
+**- The new user should be part of an admin group that also contains the user you created during installation.**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-05/02.png?raw=true)  
 
-**- The new user should be part of an admin group that also contains the user you created during installation.**
-
-
-**- The new user should have a password.** 
-
+**- The new user should have a password.**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-05/03.png?raw=true)  
 
 **- The new user should be able to use ‘sudo’.**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-05/04.png?raw=true)  
 
-
-**- Locate the files that store users, passwords, and groups. See if you can find your newly created user’s data in there.**  
+**- Locate the files that store users, passwords, and groups. See if you can find your newly created user’s data in there.**   
+![kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-05/05.png?raw=true)  
 
 ## Key terms
 
