@@ -22,8 +22,9 @@ Uiteraard heb ik Google gebruikt om mijn opdrachten te kunnen maken. Tijdens mij
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-04/02.png?raw=true)
 
 **- Read your text file with the command used in the second step, once again filtering for the word ‘techgrounds’. This time, redirect the output to a new file called ‘techgrounds.txt’.**  
-Met '**ack**' liep ik helaas vast. Na trial and error: 
+Met '**ack**' liep ik helaas vast. Na trial and error:  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-04/03.png?raw=true)  
+
 
 ## Key terms
 
@@ -42,9 +43,9 @@ grep [OPTIES] ZOEKPATROON [BESTAND(EN)]
 ### Ack  
 Lijkt op grep, moet eerst nog geinstalleerd worden. Ack is uitgebreider en gebruiksvriendlelijker, mits je weet hoe je het moet gebruiken en dat was in mijn geval nog niet zo.  
 
+
 ## Bronnen  
 
 - https://www.howtogeek.com/446071/how-to-use-the-echo-command-on-linux/  
 - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-ack-a-grep-replacement-for-developers-on-ubuntu-14-04  
-- 
 
