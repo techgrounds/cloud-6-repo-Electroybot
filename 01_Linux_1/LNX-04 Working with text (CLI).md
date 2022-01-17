@@ -1,4 +1,4 @@
-# LNX-4 Working with text (CLI)#
+# LNX-4 Working with text (CLI)
 
 ## Introduction
 Every command in Linux has a standard input and output.
@@ -41,7 +41,7 @@ Gebruik grep volgens deze syntax:
 grep [OPTIES] ZOEKPATROON [BESTAND(EN)]  
 
 ### Ack  
-Lijkt op grep, moet eerst nog geinstalleerd worden. Ack is uitgebreider en gebruiksvriendlelijker, mits je weet hoe je het moet gebruiken en dat was in mijn geval nog niet zo.  
+Lijkt op grep, moet eerst nog geinstalleerd worden. Ack is uitgebreider en gebruiksvriendelijker, mits je weet hoe je het moet gebruiken en dat was in mijn geval nog niet zo.  
 
 
 ## Bronnen  
