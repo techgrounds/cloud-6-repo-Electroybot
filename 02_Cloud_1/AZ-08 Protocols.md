@@ -18,12 +18,12 @@ Onderdeel van de afspraken die wij gemaakt hebben over protocols is dat deze mee
 ## Benodigdheden
 
 ### OSI     
-`All People Seem To Need Data Processin`
-`Please Do Not Throw Special Pizza Away`
+`All People Seem To Need Data Processin`  
+`Please Do Not Throw Special Pizza Away`  
 
 ### TCP/IP
-`Always Try It, Noob`
-`Never Interrupt The Adventure`
+`Always Try It, Noob`  
+`Never Interrupt The Adventure`  
 
 ## Opdracht  
 
