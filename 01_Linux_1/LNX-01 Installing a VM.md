@@ -22,6 +22,6 @@ During this course we will run a Linux distribution called CentOS 8, which is ba
 Ikzelf heb Oracle VM Virtual Box geinstalleerd i.c.m. Ubuntu 20.04.3 en na de installatie van Ubuntu heb ik er een snapshot van gemaakt.
 Vervolgens heb ik de terminal geopend en kijk aan..
 
-![Gelukt!](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/Screenie%20whoami.PNG)
+![Gelukt!](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-01/Screenie%20whoami.PNG?raw=true)
 
 
