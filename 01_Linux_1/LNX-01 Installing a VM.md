@@ -17,6 +17,11 @@ During this course we will run a Linux distribution called CentOS 8, which is ba
 
 - Install a CentOS 8 virtual machine on your laptop.
 - Once installation and setup are complete, take a snapshot of the VM. This will act as a checkpoint in case you break the machine on accident (or on purpose).
-- Go to the terminal in your VM and type ‘whoami’. The terminal should show your username
+- Go to the terminal in your VM and type ‘whoami’. The terminal should show your username  
+
+Ik heb Oracle VM Virtual Box geinstalleerd en Ubuntu 20.04.3 en na de installatie van Ubuntu heb ik er een snapshot van gemaakt.
+Vervolgens heb ik de terminal geopend..
 
 ![Gelukt!](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/Screenie%20whoami.PNG)
+
+
