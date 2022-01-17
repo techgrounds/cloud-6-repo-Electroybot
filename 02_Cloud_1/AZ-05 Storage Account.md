@@ -16,12 +16,12 @@ Veel IaaS en PaaS services van Azure maken ook gebruik van Azure Storage Account
 ## Opdracht
 **- Maak een Azure Storage Account. Zorg dat alleen jij toegang hebt tot de data.** 
 
-`Resource: roytest-05`
-`Account: myblobsroy`
+`Resource: roytest-05`  
+`Account: myblobsroy`  
 
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-05/02.png?raw=true)  
 
-`Container`
+`De container`  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%202/Week%202%20-%20AZ-01%20tm%20AZ-09/AZ-05/03.png?raw=true)  
 
 **- Plaats data in een storage service naar keuze via de console (bijvoorbeeld een kattenfoto in Blob storage).**  
