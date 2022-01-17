@@ -48,4 +48,5 @@ Lijkt op grep, moet eerst nog geinstalleerd worden. Ack is uitgebreider en gebru
 
 - https://www.howtogeek.com/446071/how-to-use-the-echo-command-on-linux/  
 - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-ack-a-grep-replacement-for-developers-on-ubuntu-14-04  
+- https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/  
 
