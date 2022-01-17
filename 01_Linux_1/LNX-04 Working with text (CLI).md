@@ -1,4 +1,4 @@
-# LNX-4 Working with text (CLI)
+# LNX-4 : Working with text (CLI)
 
 ## Introduction
 Every command in Linux has a standard input and output.
@@ -25,7 +25,6 @@ Uiteraard heb ik Google gebruikt om mijn opdrachten te kunnen maken. Tijdens mij
 Met '**ack**' liep ik helaas vast. Na trial and error:  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-04/03.png?raw=true)  
 
-
 ## Key terms
 
 ### echo  
@@ -42,7 +41,6 @@ grep [OPTIES] ZOEKPATROON [BESTAND(EN)]
 
 ### ack  
 Lijkt op grep, moet eerst nog geinstalleerd worden. Ack is uitgebreider en gebruiksvriendelijker, mits je weet hoe je het moet gebruiken en dat was in mijn geval nog niet zo.  
-
 
 ## Bronnen  
 

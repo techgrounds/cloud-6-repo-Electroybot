@@ -1,4 +1,4 @@
-# Linux 2 - Files and directories  
+# Linux 2 : Files and directories  
 
 ## Introduction  
 Linux uses files and folders, like you’re used to with any OS you’ve used. Folders in Linux are called directories, so use that word when looking for commands or information.
@@ -38,6 +38,9 @@ Met dit commando maak je een nieuwe directory aan.
 
 ### Vi(M), Atom, Nano  
 Teksteditors in Linux.  
+
+### cat
+Cat, de afkorting voor “concatenate”, oftewel samenvoegen, maakt het mogelijk om bestanden te maken, bekijken en samen te voegen vanaf de terminal. Het is vooral handig om een voorbeeld van een bestand te bekijken zonder een grafische tekstbewerker te hoeven openen
 
 ## Bronnen  
 
