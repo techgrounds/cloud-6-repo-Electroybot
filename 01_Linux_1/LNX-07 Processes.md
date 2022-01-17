@@ -1,4 +1,4 @@
-# LNX-7 Processes
+# LNX-7 - Processes
 
 ## Introduction
 Processes in Linux can be divided into three categories: Daemons, Services, and Programs.
@@ -13,14 +13,23 @@ Your CentOS VM
 
 ## Exercise
 
-Start the ssh daemon.
-Eerst installeren
+**- Start the ssh daemon.**  
+Deze heb ik eerst geinstalleerd:  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-07/01.png?raw=true)
 
+Et voilà:
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-07/01%202.png?raw=true)
 
-Find out the PID of the ssh daemon.
+**- Find out the PID of the ssh daemon.**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-07/02.png?raw=true)  
 
-Find out how much memory the sshd is using.
+**- Find out how much memory the sshd is using.**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-07/03.png?raw=true)
 
+**- Stop or kill the sshd process.**  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-07/unnamed.png?raw=true)  
 
-Stop or kill the sshd process.
+## Key terms
+
+## Bronnen  
 
