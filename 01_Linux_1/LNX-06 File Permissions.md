@@ -27,15 +27,16 @@ Screenshot heb ik niet meer, maar deze pagina heb ik gebruikt: https://phoenixna
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/04.png?raw=true)
 
 **- Remove the read and write permissions (rw) from the file for the group and everyone else, but not for the owner. Can you still read it?**  
+We gebruiken de calculator normaals:  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/05.png?raw=true)
-
-
+En kijk aan, leesbaar:  
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/06%202.png?raw=true)
 
 **- Change the owner of the file to a different user. If everything went well, you shouldn’t be able to read the file unless you assume root privileges with ‘sudo’.**  
-https://linuxize.com/post/linux-chown-command/
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/07.png?raw=true  )
 
 **- Change the group ownership of the file to a different group.**  
-https://linuxize.com/post/chgrp-command-in-linux/ 
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-06/08.png?raw=true)  
 
 ## Bronnen
 - https://phoenixnap.com/kb/linux-file-permissions 
