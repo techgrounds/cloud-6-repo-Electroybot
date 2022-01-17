@@ -54,7 +54,10 @@ Dum-di-di-dum-done.
 
 ## Keyterms
 
-Az
+Geen.
 
 ## Bronnen
+
+- https://youtu.be/fnqCSQ3WGTw
+- https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
 
