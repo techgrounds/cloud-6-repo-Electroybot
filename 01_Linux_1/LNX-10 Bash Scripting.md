@@ -37,17 +37,17 @@ You can assign a value to a string of characters so that the value can be read s
 Assigning a variable is done using ‘=’.
 Reading the value of a variable is done using ‘$<insert variable name here>’.  
 
-## Exercise 2:
+## Exercise 2
 Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file.  
 
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/Ex%2002.png?raw=true)    
 
-### Conditions:  
+### Conditions 
 You can choose to only run parts of your script if a certain condition is met. For example, only read a file if the file exists, or only write to a log if the health check returns an error. This can be done using conditions.  
 
 A check for a condition can be done using ‘if’, ‘elif’, and/or ‘else’.   
 
-## Exercise 3:  
+## Exercise 3
 Create a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file only if the number is bigger than 5. If the number is 5 or smaller, it should append a line of text to that same text file instead.  
 
 ## Key terms
