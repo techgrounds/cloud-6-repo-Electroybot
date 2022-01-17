@@ -13,7 +13,7 @@ Linux will only be able to find the script if you specify the path name, or if y
 ## Requirements
 Your VM.  
 
-## Exercise 1:
+## Exercise 1
 
 **- Create a directory called ‘scripts’. Place all the scripts you make in this directory.**  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/01.png?raw=true)  
@@ -31,7 +31,7 @@ Your VM.
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/04%2001.png?raw=true)  
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/04%2002.png?raw=true)  
 
-## Variables:
+### Variables
 
 You can assign a value to a string of characters so that the value can be read somewhere else in the script.
 Assigning a variable is done using ‘=’.
@@ -42,7 +42,7 @@ Create a script that generates a random number between 1 and 10, stores it in a 
 
 ![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-10/Ex%2002.png?raw=true)    
 
-## Conditions:  
+### Conditions:  
 You can choose to only run parts of your script if a certain condition is met. For example, only read a file if the file exists, or only write to a log if the health check returns an error. This can be done using conditions.  
 
 A check for a condition can be done using ‘if’, ‘elif’, and/or ‘else’.   
