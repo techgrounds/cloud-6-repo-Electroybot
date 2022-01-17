@@ -1,4 +1,6 @@
-# Introduction  
+# LNX-01 - Installing a VM
+
+## Introduction  
 
 Linux, like Windows or MacOS, is an operating system. It manages the communication between the physical device (hardware) and all computer programs (software).
 Linux is the most popular operating system for servers, because it is lightweight, stable, highly customizable, and free to use. Due to the open source licensing, everyone is allowed to build and distribute new versions of Linux.  
@@ -23,5 +25,6 @@ Ikzelf heb Oracle VM Virtual Box geinstalleerd i.c.m. Ubuntu 20.04.3 en na de in
 Vervolgens heb ik de terminal geopend en kijk aan..
 
 ![Gelukt!](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%201/LNX-01/Screenie%20whoami.PNG?raw=true)
+
 
 
