@@ -2,7 +2,8 @@
 
 ## Introductie
 
-
+Verschil
+![Kijk](https://www.silversands.co.uk/wp-content/uploads/containers-1.png)  
 
 
 
@@ -22,3 +23,5 @@
 
 ## Bronnen
 - https://docs.microsoft.com/en-us/azure/containers/
+- https://www.silversands.co.uk/blog/understanding-containers-azure/
+
