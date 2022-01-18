@@ -12,7 +12,7 @@ Zoals je kan zien is dit lijstje stukken korter dan wat wij hiervoor hebben beha
 
 **Hier zijn nogmaals de lijstjes vragen voor je onderzoek.**
 
-## Vragen voor theoretisch onderzoek:
+### Vragen voor theoretisch onderzoek:
 - Waar is X voor?  
 - Hoe past X / vervangt X in een klassieke setting?  
 - Hoe kan ik X combineren met andere diensten?  
