@@ -33,5 +33,5 @@ Omdat niet alle services in iedere region worden aangeboden. Dus dan kun je moge
 
 ## Bronnen:
 
-- https://www.youtube.com/watch?v=C-nNw1mGwzE
-- https://docs.microsoft.com/en-us/azure/availability-zones/az-overview  
+- *https://www.youtube.com/watch?v=C-nNw1mGwzE*
+- *https://docs.microsoft.com/en-us/azure/availability-zones/az-overview*  

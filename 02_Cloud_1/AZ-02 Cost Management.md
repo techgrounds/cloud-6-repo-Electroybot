@@ -75,15 +75,15 @@ Total Cost of Ownership heet ook wel life cycle cost analysis of levensduurcyclu
 
 ## Bronnen
 
-- https://docs.microsoft.com/nl-nl/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/  
-- https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/  
-- https://azure.microsoft.com/en-us/support/legal/sla/azure-sql-database/v1_6/  
-- https://azure.microsoft.com/nl-nl/free/free-account-faq/  
-- https://finwin.nl/capex-opex-verschil/  
-- https://nevi.nl/inkoop/inkoopkennis/total-cost-of-ownership  
-- https://azure.microsoft.com/en-us/pricing/tco/calculator/ 
-- https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/understand-work-scopes  
-- https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets  
-- https://youtu.be/CXFWPI1qk_s  
-- https://portal.azure.com/#blade/Microsoft_Azure_CostManagement/Menu/costanalysisv3  
+- *https://docs.microsoft.com/nl-nl/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/*  
+- *https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/*  
+- *https://azure.microsoft.com/en-us/support/legal/sla/azure-sql-database/v1_6/* 
+- *https://azure.microsoft.com/nl-nl/free/free-account-faq/*  
+- *https://finwin.nl/capex-opex-verschil/*  
+- *https://nevi.nl/inkoop/inkoopkennis/total-cost-of-ownership*  
+- *https://azure.microsoft.com/en-us/pricing/tco/calculator/* 
+- *https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/understand-work-scopes*  
+- *https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets*  
+- *https://youtu.be/CXFWPI1qk_s*  
+- *https://portal.azure.com/#blade/Microsoft_Azure_CostManagement/Menu/costanalysisv3*  
 
