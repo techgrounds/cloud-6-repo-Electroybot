@@ -15,7 +15,7 @@ Als je in dit geval kiest voor de microservice-werkwijze, dan slaat iedere gebru
 ![Kijk](https://www.silversands.co.uk/wp-content/uploads/containers-1.png)  
 
 Zichtbaar is de opbouw anders, containers draaien niet op een hypervisor (ook wel VM monitor/host VM en dat is een opstelling die 1 OS of meerdere tegelijkertijd op een hostcomputer draait), maar direct in/op een container engine, welke op een enkele kernel draait.  
-Een container engine is software die in staat is op containers uit te voeren, Dockers is hiervan een voorbeeld. 
+Een container engine is software die in staat is om containers uit te voeren, Dockers is hiervan een voorbeeld. 
 Containers zijn efficiënter, omdat zij besturingssysteem en resources delen. Bij VM's bevat iedere VM een eigen besturingssysteem en zijn daarom niet bepaald compact te noemen, dus het opstarten duurt ook relatief lang, terwijl je een container doorgaans in luttele seconden op kunt starten.
 Een bijkomend voordeel is dat dit scheelt in de kosten: meerdere containers maken immers gebruik van dezelfde resources.  
 
