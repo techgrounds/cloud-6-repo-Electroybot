@@ -14,6 +14,8 @@ De logboekgebeurtenissen worden 90 dagen bewaard in Azure en vervolgens verwijde
 
 Je kunt de logs openen vanuit de meeste menu's, dit bepaalt ook het aanvankelijke filter. Voorbeeld: als je het opent vanuit het menu `Monitor`, is het enige filter ingesteld op je subscription zelf. Als je het opent vanuit een resource, dan is het filter ingesteld op die specifieke resource. Wijzigen is altijd mogelijk, klik hiervoor op `Filter toevoegen`.  
 
+De logs kun je downloaden bij `Download as CSV` en de historie kun je bekijken via het tabblad `Change History (Preview)`.
+
 ## Bronnen
 - *https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log*  
 - *https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings?tabs=CMD*
