@@ -21,8 +21,6 @@ Een container engine is software die in staat is op containers uit te voeren, Do
 Containers zijn efficiënter, omdat zij besturingssysteem en resources delen. Bij VM's bevat iedere VM een eigen besturingssysteem en zijn daarom niet bepaald compact te noemen, dus het opstarten duurt ook relatief lang, terwijl je een container doorgaans in luttele seconden op kunt starten.
 Een bijkomend voordeel is dat dit scheelt in de kosten: meerdere containers maken immers gebruik van dezelfde resources.  
 
-Azure containers zijn direct te koppelen met andere diensten en perfect voor eenvoudige taken (de automatisering ervan) en toepassingen.  
-
 ## Kubernetes
 
 Kubernetes is open-source software waar je toepassingen in containers op schaal kunt implementeren en beheren.
@@ -30,13 +28,13 @@ VM's of servers (nodes) worden samengevoegd tot een cluster en deze kan beheerd 
 
 De belangrijkste voordelen vam Kubernetes zijn:
 
-- **Efficiëntie**
+- **Efficiëntie**  
 Veel problemen van het beheer van containers worden opgelost doordat Kubernetes containers samenvoegt in ‘Pods’. Aan Pods kun je eigenschappen toekennen zoals storage, networking en scheduling. Kubernetes kijkt vervolgens naar het beschikbare geheugen en processorgebruik van elke node en kiest voor jou de beste verdeling. Hiermee worden de nodes van het Kubernetes cluster optimaal gebruikt wat resulteert in directe kostenbesparing.    
 - **High-availability door het Desired State principe**  
 Kubernetes volgt het Desired State principe. Je vertelt Kubernetes wat je wilt hebben, niet hoe Kubernetes dit moet doen. Kubernetes doet continue zijn uiterste best om aan jouw wensen te voldoen. Dus bij een update, onderhoud of een storing zal Kubernetes de pods opnieuw aanmaken of verdelen om aan je gestelde eisen te voldoen. Hiermee zorgt Kubernetes er automatisch voor dat de site of applicatie altijd beschikbaar is.  
-- **Updaten zonder downtime**
+- **Updaten zonder downtime**  
 Met rolling updates kun je altijd updaten zonder downtime. Rolling updates is een techniek om pods een-op-een te vervangen door een nieuwere versie van Kubernetes. Hiermee is het in veel gevallen niet meer nodig om update ’s avonds of ’s nachts uit te voeren. Doordat het updaten van de applicaties in Kubernetes geautomatiseerd kan worden kan je ook vaker updaten. Bugs worden sneller opgelost en klanten hebben sneller de features waar ze om vragen.  
-- **Centraal management**
+- **Centraal management**  
 Kubernetes heeft zijn eigen opslag voor configuratie, wachtwoorden en certificaten. Er is geen lokale configuratie op VM’s of servers nodig. Dit maakt het beheer van een Kubernetes cluster efficiënt, makkelijk en overzichtelijk. Ook is er een enorm aantal tools en plugins beschikbaar voor het beheer van Kubernetes. Je bent niet verplicht om deze tools te gebruiken maar het is fijn om te weten dat Kubernetes eindeloos kan mee groeien met je organisatie.  
 
 ### Azure Kubernetes Service
