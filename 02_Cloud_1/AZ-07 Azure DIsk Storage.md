@@ -36,5 +36,5 @@ De beschikbare typen schijven zijn Ultra Disks, Premium SOLID-State Drives (SSD)
 
 ## Bronnen  
 
-- https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows  
-- https://docs.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview  
+- *https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows*  
+- *https://docs.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview*  

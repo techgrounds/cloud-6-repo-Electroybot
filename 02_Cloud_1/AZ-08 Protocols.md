@@ -48,7 +48,7 @@ Dit kwam door een wijziging bij de backbonerouters. De netwerken waren niet meer
 Border Gateway Protocol. Heel verhaal, zie de link @Bronnen.  
 
 ## Bronnen
-- https://www.internetx.com/en/news-detailview/who-creates-the-standards-and-protocols-for-the-internet/
-- https://tweakers.net/nieuws/187706/facebook-downtime-kwam-door-configuratiefout-backbonerouters.html
-- https://en.wikipedia.org/wiki/2021_Facebook_outage
-- https://nl.wikipedia.org/wiki/Border_Gateway_Protocol
+- *https://www.internetx.com/en/news-detailview/who-creates-the-standards-and-protocols-for-the-internet/*
+- *https://tweakers.net/nieuws/187706/facebook-downtime-kwam-door-configuratiefout-backbonerouters.html*
+- *https://en.wikipedia.org/wiki/2021_Facebook_outage*
+- *https://nl.wikipedia.org/wiki/Border_Gateway_Protocol*

@@ -37,7 +37,7 @@ Veel IaaS en PaaS services van Azure maken ook gebruik van Azure Storage Account
 
 ## Bronnen
 
-- https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal  
-- https://www.youtube.com/watch?v=sI2ahWX8RH8  
+- *https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal*  
+- *https://www.youtube.com/watch?v=sI2ahWX8RH8*  
 
 

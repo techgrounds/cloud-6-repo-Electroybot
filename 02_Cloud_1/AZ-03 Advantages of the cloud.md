@@ -42,7 +42,7 @@ Prijs is gebaseerd op meerdere prijscomponenten per service:
 
 ## Bronnen
 
-- De 6 voordelen worden soms anders benoemd op de diverse sites die ik heb bezocht. Deze opdracht is dan ook mijn eigen opgestelde combinatie van gevonden dingen en tevens mijn naslagwerk, dus 5 bronnen benoemen is overbodig.  
-- https://youtu.be/NdqncsMtryY
+- *De 6 voordelen worden soms anders benoemd op de diverse sites die ik heb bezocht. Deze opdracht is dan ook mijn eigen opgestelde combinatie van gevonden dingen en tevens mijn naslagwerk, dus 5 bronnen benoemen is overbodig.*    
+- *https://youtu.be/NdqncsMtryY*
 
 
