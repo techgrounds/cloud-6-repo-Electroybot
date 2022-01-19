@@ -7,14 +7,16 @@ Gescheiden apps kunnen daarentegen gewoon gebruik maken van dezelfde OS kernel e
 
 Het kan (dus hoeft niet) een *monolithic architecture* vervangen, waarbij gegevens door elkaar gehaald kunnen worden, in deze context ook wel *microservices architecture* genoemd.
 Als bijvb. dependencies (external standalone libraries) worden samengevoegd in de opslaglaag, dan kunnen de samengevoegde individuele gegevens niet meer geschaald worden, want ze zijn als het ware vervuild.
-Als je in dit geval kiest voor de microservice-werkwijze, dan slaat iedere gebruikte service een **eigen** status op. Elke service is verantwoordelijk voor
+Als je in dit geval kiest voor de microservice-werkwijze, dan slaat iedere gebruikte service een **eigen** status op. Elke service is verantwoordelijk voor de code én staat. Het is mogelijk om diverse versies naast elkaar te draaien en zo kun je altijd gemakkelijk nieuwe versies testen: mocht de nieuwe niet of slecht werken, dan kun je altijd nog vertrouwen op een oudere versie en je kunt gebruikers tegelijkertijd verschillende versies laten testen, voordat je de definitieve versie gaat uitrollen.
+
+
 
 
 `De verschillen tussen een *monolithic architecture* en een microservices architecture qua opbouw:`
 
 ![Kijk](https://www.silversands.co.uk/wp-content/uploads/containers-1.png)  
 
-Zoals je kunt zien is de opbouw anders, containers draaien niet op een hypervisor (ook wel VM monitor is een opstelling die 1 OS of meerdere tegelijkertijd op een hostcomputer draait), maar direct in/op een container engine, welke op een enkele kernel draait. Een container engine is software die in staat is op containers uit te voeren. Een voorbeeld hiervan is Dockers.  
+Zoals je kunt zien is de opbouw anders, containers draaien niet op een hypervisor (ook wel VM monitor is een opstelling die 1 OS of meerdere tegelijkertijd op een hostcomputer draait), maar direct in/op een container engine, welke op een enkele kernel draait. Een container engine is software die in staat is op containers uit te voeren. Een voorbeeld hiervan is Docker.  
 
 
 
@@ -53,7 +55,7 @@ In deze situatie wordt er voor een toepassing doorgaans één database gebruikt.
 Het voordeel hiervan is dat deze zich op één locatie bevindt, waardoor je deze makkelijk kunt implementeren. Elk onderdeel kan slechts één tabel hebben om de status, werk en/of de voortgang op te slaan.  
 
 **Voordelen**  
-+ Ze zijn simpel om te onwikkelen en testbaar, omdat ze niet erg complex zijn. 
++ Ze zijn simpel ontwikkel- en testbaar, omdat ze niet erg complex zijn. 
 + Scaling gaat gemakkelijk, want je kunt de applicatie gewoon meerdere malen draaien achter een load balancer. 
 + Deployment is simpel: je hoeft enkel het pakketje met de applicatie naar de server te kopiëren.
 
@@ -69,12 +71,13 @@ Het voordeel hiervan is dat deze zich op één locatie bevindt, waardoor je deze
 
 
 ## Bronnen
-- https://docs.microsoft.com/en-us/azure/containers/  
-- https://youtu.be/c4MgYhyAzjA  
-- https://www.whitesourcesoftware.com/free-developer-tools/blog/dependency-management/
-- https://docs.microsoft.com/nl-nl/azure/service-fabric/service-fabric-overview-microservices#:~:text=In%20een%20monolitische%20benadering%20wordt,de%20status%20op%20te%20slaan.
-- https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59
-- https://www.whitesourcesoftware.com/free-developer-tools/blog/dependency-management/
-- https://www.silversands.co.uk/blog/understanding-containers-azure/  
-- https://www.geeksforgeeks.org/difference-between-virtual-machines-and-containers/  
+- *https://docs.microsoft.com/en-us/azure/containers/*  
+- *https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-overview*
+- *https://youtu.be/c4MgYhyAzjA*  
+- *https://www.whitesourcesoftware.com/free-developer-tools/blog/dependency-management/*
+- *https://docs.microsoft.com/nl-nl/azure/service-fabric/service-fabric-overview-microservices#:~:text=In%20een%20monolitische%20benadering%20wordt,de%20status%20op%20te%20slaan*
+- *https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59*
+- *https://www.whitesourcesoftware.com/free-developer-tools/blog/dependency-management/*
+- *https://www.silversands.co.uk/blog/understanding-containers-azure/*
+- *https://www.geeksforgeeks.org/difference-between-virtual-machines-and-containers/*  
 
