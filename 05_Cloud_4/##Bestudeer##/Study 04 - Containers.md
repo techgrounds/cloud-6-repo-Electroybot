@@ -2,12 +2,15 @@
 
 ## Introductie
 Containers zijn gestandaardizeerde pakketjes voor software en *dependencies*.
-Je kunt hiermee apps van elkaar isoleren, dit wil zeggen dat de gebruikte directories van apps los van elkaar werken en hierdoor kunnen gegevens niet door elkaar worden gehaald en daarom is het ook veiliger.
+Je kunt hiermee apps van elkaar isoleren, dit wil zeggen dat de gebruikte directories van apps los van elkaar werken en hierdoor kunnen gegevens niet door elkaar worden gehaald en hierom is het dan ook veiliger, sneller op te starten en VM instellingen zijn overbodig,
 Gescheiden apps kunnen daarentegen gewoon gebruik maken van dezelfde OS kernel en het werkt met zowel Linux als Windows servers.
 
-Het kan (dus hoeft niet) een *monolithic architecture* vervangen, waarbij gegevens door elkaar gehaald kunnen worden.
-Een moni
-Verschil
+Het kan (dus hoeft niet) een *monolithic architecture* vervangen, waarbij gegevens door elkaar gehaald kunnen worden, in deze context ook wel *microservices architecture* genoemd.
+Als bijvb. dependencies (external standalone libraries) worden samengevoegd in de opslaglaag, dan kunnen de samengevoegde individuele gegevens niet meer geschaald worden, want ze zijn als het ware vervuild.
+
+
+`De verschillen tussen een *monolithic architecture* en een microservices architecture`
+
 ![Kijk](https://www.silversands.co.uk/wp-content/uploads/containers-1.png)  
 
 
