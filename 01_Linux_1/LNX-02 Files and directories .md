@@ -44,8 +44,8 @@ Cat, de afkorting voor “concatenate”, oftewel samenvoegen, maakt het mogelij
 
 ## Bronnen  
 
-- https://www.guru99.com/linux-commands-cheat-sheet.html#1  
-- https://askubuntu.com/questions/846605/how-to-create-a-directory-within-your-home-directory-linux  
-- https://www.javatpoint.com/linux-text-editors  
+- *https://www.guru99.com/linux-commands-cheat-sheet.html#1*  
+- *https://askubuntu.com/questions/846605/how-to-create-a-directory-within-your-home-directory-linux*  
+- *https://www.javatpoint.com/linux-text-editors*  
 
 

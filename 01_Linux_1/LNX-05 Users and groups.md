@@ -47,7 +47,7 @@ tail -n 4 voorbeeld.txt
 
 ## Bronnen
 
-- https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
-- https://linuxhint.com/where_and_how_are_passwords_stored_on_linux/
-- https://phoenixnap.com/kb/how-to-create-sudo-user-on-ubuntu
-- https://www.geeksforgeeks.org/tail-command-linux-examples/
+- *https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/*
+- *https://linuxhint.com/where_and_how_are_passwords_stored_on_linux/*
+- *https://phoenixnap.com/kb/how-to-create-sudo-user-on-ubuntu*
+- *https://www.geeksforgeeks.org/tail-command-linux-examples/*

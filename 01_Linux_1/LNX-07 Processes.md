@@ -62,9 +62,9 @@ Gebruik de hotkey [H] om een helppagina weer te geven en [Q] om het procesoverzi
 
 ## Bronnen  
 
-- https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/  
-- https://www.strato.nl/server/linux-commando-in-de-terminal-een-overzicht/  
-- https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/  
+- *https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/*  
+- *https://www.strato.nl/server/linux-commando-in-de-terminal-een-overzicht/*  
+- *https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/*  
 
 
 

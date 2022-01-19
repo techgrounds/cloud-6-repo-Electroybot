@@ -1,7 +1,7 @@
 # Study 04 - Azure Containers
 
 ## Introductie
-Containers zijn gestandaardizeerde pakketjes voor software en *dependencies*.
+Containers zijn gestandaardizeerde pakketjes voor software en *dependencies*. Er komt veel bij kijken en ik ga dan ook behoorlijk uitwijden voor deze bestudeeropdracht.
 Je kunt hiermee apps van elkaar isoleren, dit wil zeggen dat de gebruikte directories van apps los van elkaar werken en hierdoor kunnen gegevens niet door elkaar worden gehaald en hierom is het dan ook veiliger, sneller op te starten en VM instellingen zijn overbodig,
 Gescheiden apps kunnen daarentegen gewoon gebruik maken van dezelfde OS kernel en het werkt met zowel Linux als Windows servers.
 

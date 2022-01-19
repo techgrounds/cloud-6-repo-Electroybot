@@ -44,8 +44,8 @@ En kijk aan, leesbaar:
 
 
 ## Bronnen
-- https://phoenixnap.com/kb/linux-file-permissions 
-- https://chmod-calculator.com/
-- https://youtu.be/XSQIy2lnz3w 
-- https://linuxize.com/post/linux-chown-command/
-- https://linuxize.com/post/chgrp-command-in-linux/ 
+- *https://phoenixnap.com/kb/linux-file-permissions* 
+- *https://chmod-calculator.com/*
+- *https://youtu.be/XSQIy2lnz3w* 
+- *https://linuxize.com/post/linux-chown-command/*
+- *https://linuxize.com/post/chgrp-command-in-linux/* 

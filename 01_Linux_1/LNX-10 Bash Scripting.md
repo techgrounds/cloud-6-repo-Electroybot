@@ -60,6 +60,6 @@ Deze variabele geeft een set van mappen aan waar executable programma's staan wa
 
 ## Bronnen
 
-- https://linuxhint.com/30_bash_script_examples/
-- https://www.shells.com/l/en-US/tutorial/How-to-Fix-Shell-Script-Permission-Denied-Error-in-Linux
-- https://www.howtogeek.com/299219/how-to-save-the-output-of-a-command-to-a-file-in-bash-aka-the-linux-and-macos-terminal/
+- *https://linuxhint.com/30_bash_script_examples/*
+- *https://www.shells.com/l/en-US/tutorial/How-to-Fix-Shell-Script-Permission-Denied-Error-in-Linux*
+- *https://www.howtogeek.com/299219/how-to-save-the-output-of-a-command-to-a-file-in-bash-aka-the-linux-and-macos-terminal/*
