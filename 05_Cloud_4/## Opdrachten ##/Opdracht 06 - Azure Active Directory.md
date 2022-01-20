@@ -78,10 +78,14 @@ Azure AD beschikt ook over monitoring- en rapportagemogelijkheden om je te helpe
 - Flexibele licentieopties zijn beschikbaar om te voldoen aan de eisen van de omgeving van jouw organisatie.  
 
 ## Vragen voor praktisch onderzoek  
-- Waar kan ik deze dienst vinden in de console?  
+### Waar kan ik deze dienst vinden in de console?  
+Zijpaneel of bovenin het zoekveld. Vervolgens staat deze gepinned, maar je kunt ook `More Services` openen en dan filteren op *Azure Active Directory* en naar wens de service pinnen.
+
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%205/Azure%20Active%20Directory/where%202%20find%20AD.JPG?raw=true)  
+
+### Hoe zet ik deze dienst aan?  
 
 
-- Hoe zet ik deze dienst aan?  
 - Hoe kan ik deze dienst koppelen aan andere resources?  
 
 ## Key terms
