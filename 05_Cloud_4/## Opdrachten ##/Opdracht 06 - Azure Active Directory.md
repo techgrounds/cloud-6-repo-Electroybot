@@ -77,6 +77,13 @@ Azure AD beschikt ook over monitoring- en rapportagemogelijkheden om je te helpe
 - Het is zeer compatibel met apps en diensten van derden voor eenvoudige adoptie en toekomstbestendigheid.  
 - Flexibele licentieopties zijn beschikbaar om te voldoen aan de eisen van de omgeving van jouw organisatie.  
 
+## Vragen voor praktisch onderzoek  
+- Waar kan ik deze dienst vinden in de console?  
+
+
+- Hoe zet ik deze dienst aan?  
+- Hoe kan ik deze dienst koppelen aan andere resources?  
+
 ## Key terms
 
 ### Cloud write-back
@@ -89,3 +96,4 @@ Hiermee kunnen wachtwoordwijzigingen in de cloud in realtime worden 'teruggeschr
 - *https://docs.microsoft.com/nl-nl/azure/active-directory/fundamentals/active-directory-whatis*  
 - *https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-application-management*
 - *https://myitcrew.nl/de-definitieve-gids-voor-azure-ad-alles-wat-je-moet-weten*
+- *https://techcommunity.microsoft.com/t5/azure-active-directory-identity/the-azuread-admin-experience-in-the-new-azure-portal-is-now-in/ba-p/245097*
