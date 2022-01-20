@@ -28,9 +28,38 @@ Ook beidt het Privileged Identity Management aan voor het detecteren, beperken e
 
 - **Functielicenties met Betalen per gebruik.** Je kunt ook aanvullende feature licenties krijgen, zoals **Azure Active Directory Business-to-Customer** (B2C). Met B2C kunt u identiteits- en toegangsbeheeroplossingen bieden voor klantgerichte apps.  
 
-## Welke functies werken in Azure AD?
+## Wat zijn de belangrijkste functies van Azure AD?
 
-![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%205/Azure%20Active%20Directory/azure%20ad.png?raw=true)  
+### Applicatiebeheer  
+Beheer zowel cloud- als on-premise apps, single sign-on, de MyApps-portal en alle SaaS-apps.  
+
+### Authenticatie  
+Of het nu gaat om een selfservice wachtwoordherstel, het kalibreren van de MFA-vereisten of het inschakelen van slimme lock-out, je kunt echt gedetailleerd werken met de authenticatie-instellingen (vooral bij gebruik in combinatie met conditional access) voor een betere beveiliging en controle.  
+
+### Business-to-business (B2B)  
+Beheer de gastgebruikers en -partners en geef ze de toegang die je bereid bent toe te staan.  
+
+### Business-to-customer (B2C)  
+Bied aangepaste login- en aanmeldingservaringen aan, zodat klanten hun profiel binnen je applicaties kunnen beheren.  
+
+### Device management  
+Controleer hoe je netwerk wordt benaderd door on-premise en externe apparaten, met behulp van Intune om gegevens te beveiligen.  
+
+### Hybride identiteit  
+De meeste organisaties zijn nog niet klaar om te gaan cloud-only, maar het gebruik van Azure AD Connect stelt je in staat om te profiteren van de functies van Azure AD – zelfs als je een aantal on-premise applicaties en een aantal cloud applicaties hebt draaien.  
+
+### Identiteitsbeheer  
+Om ervoor te zorgen dat je identiteits-ecosysteem gezond blijft, heeft Azure AD een aantal ingebouwde bestuursfuncties waarmee je je identiteit kunt beheren en toegang kunt krijgen tot levenscycli en geprivilegieerde toegangsvoorwaarden kunt instellen.
+Deze controles zijn ontworpen om organisaties in staat te stellen ervoor te zorgen dat de juiste gebruikers de juiste toegangsniveaus hebben en te controleren wat ze ermee doen. Een van de belangrijkste voordelen van goed bestuur is de mogelijkheid om de effectiviteit van de toegepaste controles te controleren en te verifiëren.  
+
+### Identiteitsbescherming  
+Azure AD Identity Protection maakt gebruik van beveiligingsinformatie die afkomstig is uit het digitale imperium van Microsoft om risico’s op basis van identiteit op te sporen en te verhelpen, waardoor een groot deel van het proces van het identificeren en aanpakken van beveiligingsproblemen wordt geautomatiseerd.  
+Deze risico’s kunnen dan verder onderzocht worden via het Azure AD portaal.  
+
+### Rapporten en monitoring    
+Azure AD beschikt ook over monitoring- en rapportagemogelijkheden om je te helpen inzicht te krijgen in je omgeving. Je kunt diagnostiek uitvoeren en logboeken bekijken die vervolgens ook kunnen worden toegepast op SIEM-tools van derden (of de eigen Azure Sentinel van Microsoft) om een diepere duik in jouw gegevens te nemen.  
+
+
 
 
 ## Key terms
@@ -47,4 +76,4 @@ Hiermee kunnen wachtwoordwijzigingen in de cloud in realtime worden 'teruggeschr
 - *https://qssolutions.nl/producten/azure-active-directory/*  
 - *https://docs.microsoft.com/nl-nl/azure/active-directory/fundamentals/active-directory-whatis*  
 - *https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-application-management*
-- 
+- *https://myitcrew.nl/de-definitieve-gids-voor-azure-ad-alles-wat-je-moet-weten*
