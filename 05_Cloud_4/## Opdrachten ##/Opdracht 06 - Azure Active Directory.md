@@ -28,6 +28,11 @@ Ook beidt het Privileged Identity Management aan voor het detecteren, beperken e
 
 - **Functielicenties met Betalen per gebruik.** Je kunt ook aanvullende feature licenties krijgen, zoals **Azure Active Directory Business-to-Customer** (B2C). Met B2C kunt u identiteits- en toegangsbeheeroplossingen bieden voor klantgerichte apps.  
 
+## Welke functies werken in Azure AD?
+
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%205/Azure%20Active%20Directory/azure%20ad.png?raw=true)  
+
+
 ## Key terms
 
 ### Cloud write-back
