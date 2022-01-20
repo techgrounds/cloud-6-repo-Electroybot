@@ -5,7 +5,7 @@
 De Microsoft Azure Active Directory is eigenlijk een verlenging van je infrastructuur naar de cloud en werkt als een universeel identiteitsplatform om identiteiten te beheren en te beveiligen. Je behoudt bestaande on-premise investeringen en houdt voortaan controle vanuit de cloud. De Azure Active Directory maakt het bovendien makkelijk voor gebruikers, want met een Single Sign-On krijgen ze toegang tot alle geïntegreerde Software-as-a-Service (SaaS)-applicaties, zoals Microsoft Office en SalesForce. Omdat Microsoft Azure Active Directory een Cloud Identity Service is, komen bovendien steeds nieuwe functies beschikbaar.  
 
 `Hieronder zie je weergegeven hoe applicaties interactie hebben met Azure AD`
-
+![Kijk](https://github.com/Electroybot/cloud-6-repo-Electroybot/blob/main/00_includes/Week%205/Azure%20Active%20Directory/app-management-overview.png?raw=true)  
 
 ## Voor wie is het bedoeld?
 
