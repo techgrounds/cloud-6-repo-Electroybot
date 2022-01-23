@@ -1,6 +1,6 @@
 # AZ-11 - Tellen in Binair
 
-## Introductie:
+## Introductie
 Computers zijn machines die alleen kunnen werken met 1 en 0: Een signaal, of een absentie van een signaal. Een hoge spanning of een lage spanning. Ondanks dat een computer alleen tot 2 kan tellen, kan de computer alle berekeningen maken, alle tekst in de wereld tonen, de wereld interpreteren, beelden weergeven die nooit bestaan hebben etc etc.  
 
 Omdat het tellen in dit systeem maar twee opties heeft (0 en 1) voordat je een extra getal moet toevoegen heet dit binair, of base 2. Ter vergelijking de meeste menselijke talen gebruiken 10 tekens (0 tot en met 9) en is daarom ook decimaal genoemd, of base 10.  
@@ -13,16 +13,16 @@ Er kunnen ook meer tekens in een telsysteem zitten. IPv6 adressen worden uitgedr
 
 Ook al is het handig om beiden te kennen, leggen wij de focus alleen op binair tellen.   
 
-## Bestudeer:
+## Bestudeer
 - Tellen in base 2
 - Binaire getallen omrekenen
 - 1 cijfer = 1 bit
 - 8 bits = 1 byte (32-bit werkt met 4 bytes tegelijk, 64 bit met 8 bytes etc).
 
 ## Benodigdheden
-- Je hersenen
-- Handig: pen en papier
-- Verboden: een (online) calculator
+- Je hersenen  
+- Handig: pen en papier  
+- Verboden: een (online) calculator  
 
 ## Opdracht:
 
