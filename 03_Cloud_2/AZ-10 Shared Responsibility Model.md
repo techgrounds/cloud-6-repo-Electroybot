@@ -10,5 +10,5 @@ Hoeveel verantwoordelijkheden bij de klant liggen is ook afhankelijk van wat voo
 De Cloud provider extra biedt extra services aan waarmee je je eigen verantwoordelijkheden makkelijker kan beheren.  
 
 ## Bestudeer
-- Het Azure Shared Responsibility model
+- Het Azure Shared Responsibility model:  
 ![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/Week%203/shared%20respnsibility%20model.png?raw=true)  
