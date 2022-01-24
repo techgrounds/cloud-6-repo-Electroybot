@@ -11,4 +11,4 @@ De Cloud provider extra biedt extra services aan waarmee je je eigen verantwoord
 
 ## Bestudeer
 - Het Azure Shared Responsibility model:  
-![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/Week%203/shared%20respnsibility%20model.png?raw=true)  
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/Week%203/AZ-10/shared%20respnsibility%20model.png?raw=true) 
