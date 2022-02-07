@@ -1,4 +1,4 @@
-### Setting up
+# PRG-01 - Setting up
 
 ## Introduction:
 For a lot of IT jobs, some basic programming knowledge is required. You do not have to be able to write a script from scratch, or understand complex algorithms. You will have to be able to understand and modify code snippets to fit your needs.
@@ -22,6 +22,6 @@ Everyone will use the same version of Python, and the same IDE. This way, it wil
 
 Gelukt.
 
-## Bronnen
+## Bronnen:
 
 - https://www.youtube.com/watch?v=kqtD5dpn9C8  
