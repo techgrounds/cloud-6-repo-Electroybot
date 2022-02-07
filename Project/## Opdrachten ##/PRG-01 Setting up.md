@@ -18,7 +18,7 @@ Everyone will use the same version of Python, and the same IDE. This way, it wil
 - Install the Python plug-in in VS Code.
 - Write the following Python code. The output in the terminal should be the text “Hello world!”
 
-![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/hello%20world.png?raw=true)
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/hello%20world%20jpeg.JPG?raw=true)
 
 Gelukt.
 
