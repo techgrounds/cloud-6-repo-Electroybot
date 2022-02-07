@@ -15,6 +15,8 @@ Remember that at any time in the code, you can put a print statement to read the
 - Create a new script.
 - Create two variables x and y. Assign a numerical value to both variables.
 - Print the values of x and y.
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-02/01-01.JPG?raw=true)  
+
 - Create a third variable named z. The value of z should be the sum of x and y.
 - Print the value of z.
 
