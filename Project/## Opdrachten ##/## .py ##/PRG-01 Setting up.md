@@ -18,4 +18,4 @@ Everyone will use the same version of Python, and the same IDE. This way, it wil
 - Install the Python plug-in in VS Code.
 - Write the following Python code. The output in the terminal should be the text “Hello world!”
 
-
+![Kijk]()
