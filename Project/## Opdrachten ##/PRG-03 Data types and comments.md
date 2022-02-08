@@ -58,3 +58,4 @@ Geen.
 - https://www.w3schools.com/python/python_comments.asp
 - https://www.w3schools.com/python/ref_func_input.asp
 - https://appdividend.com/2022/01/27/how-to-check-type-of-variable-in-python/#:~:text=To%20check%20the%20data%20type,mainly%20used%20for%20debugging%20purposes.
+- https://pythontutor.com/
