@@ -14,6 +14,7 @@ The for loop runs for a predetermined number of iterations. This number can be h
 - Create a new script.
 - Create a variable x and give it the value 0.
 - Use a while loop to print the value of x in every iteration of the loop. After printing, the value of x should increase by 1. The loop should run as long as x is smaller than or equal to 10.
+![Kijk]()
 
 ## Exercise 2:
 - Create a new script.
@@ -24,6 +25,7 @@ for i in range(10):
 - Add a variable x with value 5 at the top of your script.  
 - Using the for loop, print the value of x multiplied by the value of i, for up to 50 iterations.  
 
+
 ## Exercise 3:
 - Create a new script.
 - Copy the array below into your script.
@@ -32,7 +34,7 @@ arr = ["Coen", "Casper", "Joshua", "Abdessamad", "Saskia"]
 
 ## Problemen
 
-Lang gedaan over de opdracht, trial 'n error does the job.
+Uiteindelijk heb ik langer over de opdracht gedaan dan verwacht.
 
 # Bronnen
 
