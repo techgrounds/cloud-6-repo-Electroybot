@@ -13,7 +13,7 @@ The for loop runs for a predetermined number of iterations. This number can be h
 ## Exercise 1:
 - Create a new script.
 - Create a variable x and give it the value 0.
-- Use a while loop to print the value of x in every iteration of the loop. After printing, the value of x should increase by 1. The loop should run as long as x is smaller than or equal to 10.
+- Use a while loop to print the value of x in every iteration of the loop. After printing, the value of x should increase by 1. The loop should run as long as x is smaller than or equal to 10.  
 ![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-04/Ex%2001.JPG?raw=true)
 
 ## Exercise 2:
@@ -38,7 +38,6 @@ arr = ["Coen", "Casper", "Joshua", "Abdessamad", "Saskia"]
 
 
 # Bronnen
-
 - https://www.w3schools.com/python/python_for_loops.asp
 
 
