@@ -8,8 +8,8 @@ A variable name can be any string of characters (except for some special cases t
 Remember that at any time in the code, you can put a print statement to read the current value of a variable. This is useful when trying to find a bug in a script.  
 
 ## Requirements:
-- Python
-- VS Code
+- Python  
+- VS Code  
 
 ## Exercise 1:
 - Create a new script.
@@ -19,12 +19,13 @@ Remember that at any time in the code, you can put a print statement to read the
 
 - Create a third variable named z. The value of z should be the sum of x and y.
 - Print the value of z.
-![Kijk]()
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-02/Ex%2001%2003.JPG?raw=true)  
 
 ## Exercise 2:
-- Create a new script.
-- Create a variable name. The value of name should be your name.
-- Print the text “Hello, <your name here>!”. Use name in the print statement.
+- Create a new script.  
+- Create a variable name. The value of name should be your name.  
+- Print the text “Hello, <your name here>!”. Use name in the print statement.  
+
 
 
 
@@ -41,5 +42,6 @@ Remember that at any time in the code, you can put a print statement to read the
 
 - https://www.youtube.com/watch?v=WYf7bNlw_4Y
 - https://youtu.be/WYf7bNlw_4Y
+- https://www.w3schools.com/python/ref_func_print.asp
 - 
 
