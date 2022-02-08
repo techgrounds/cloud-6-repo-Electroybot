@@ -25,9 +25,7 @@ Remember that at any time in the code, you can put a print statement to read the
 - Create a new script.  
 - Create a variable name. The value of name should be your name.  
 - Print the text “Hello, <your name here>!”. Use name in the print statement.  
-
-
-
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-02/Ex%2002%2001.JPG?raw=true)
 
 ## Exercise 3:
 - Create a new script.
@@ -37,6 +35,7 @@ Remember that at any time in the code, you can put a print statement to read the
 - Print the text “Value 2: <value 2 here>”.
 - Change the value of that same variable.
 - Print the text “Value 3: <value 3 here>”.
+![Kijk]()
 
 ## Bronnen:
 
