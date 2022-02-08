@@ -19,6 +19,7 @@ Remember that at any time in the code, you can put a print statement to read the
 
 - Create a third variable named z. The value of z should be the sum of x and y.
 - Print the value of z.
+![Kijk]()
 
 ## Exercise 2:
 - Create a new script.
@@ -36,4 +37,9 @@ Remember that at any time in the code, you can put a print statement to read the
 - Change the value of that same variable.
 - Print the text “Value 3: <value 3 here>”.
 
+## Bronnen:
+
+- https://www.youtube.com/watch?v=WYf7bNlw_4Y
+- https://youtu.be/WYf7bNlw_4Y
+- 
 
