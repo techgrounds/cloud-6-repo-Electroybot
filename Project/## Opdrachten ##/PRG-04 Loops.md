@@ -14,7 +14,7 @@ The for loop runs for a predetermined number of iterations. This number can be h
 - Create a new script.
 - Create a variable x and give it the value 0.
 - Use a while loop to print the value of x in every iteration of the loop. After printing, the value of x should increase by 1. The loop should run as long as x is smaller than or equal to 10.
-![Kijk]()
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-04/Ex%2001.JPG?raw=true)
 
 ## Exercise 2:
 - Create a new script.
@@ -24,6 +24,7 @@ for i in range(10):
 - Print the value of i in the for loop. You did not manually assign a value to i. Figure out how its value is determined.  
 - Add a variable x with value 5 at the top of your script.  
 - Using the for loop, print the value of x multiplied by the value of i, for up to 50 iterations.  
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-04/Ex%2002.JPG?raw=true)
 
 
 ## Exercise 3:
@@ -34,12 +35,11 @@ arr = ["Coen", "Casper", "Joshua", "Abdessamad", "Saskia"]
 
 ## Problemen
 
-Uiteindelijk heb ik langer over de opdracht gedaan dan verwacht.
+
 
 # Bronnen
 
-- 
 - https://www.w3schools.com/python/python_for_loops.asp
-- 
+
 
 
