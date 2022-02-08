@@ -35,12 +35,17 @@ Remember that at any time in the code, you can put a print statement to read the
 - Print the text “Value 2: <value 2 here>”.
 - Change the value of that same variable.
 - Print the text “Value 3: <value 3 here>”.
-![Kijk]()
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-02/Ex%2003%2001.JPG?raw=true)  
+
+## Problemen:  
+
+Geen.  
 
 ## Bronnen:
 
-- https://www.youtube.com/watch?v=WYf7bNlw_4Y
-- https://youtu.be/WYf7bNlw_4Y
-- https://www.w3schools.com/python/ref_func_print.asp
-- 
+- https://www.youtube.com/watch?v=WYf7bNlw_4Y  
+- https://youtu.be/WYf7bNlw_4Y  
+- https://www.w3schools.com/python/ref_func_print.asp  
+
+
 
