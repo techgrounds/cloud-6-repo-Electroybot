@@ -18,7 +18,7 @@ The for loop runs for a predetermined number of iterations. This number can be h
 
 ## Exercise 2:
 - Create a new script.
-- Copy the code below into your script.
+- Copy the code below into your script.  
 for i in range(10):  
     (hash) do something here  
 - Print the value of i in the for loop. You did not manually assign a value to i. Figure out how its value is determined.  
