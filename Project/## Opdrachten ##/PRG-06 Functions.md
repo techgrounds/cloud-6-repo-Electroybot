@@ -28,10 +28,10 @@ Besides the built-in functions, you can also write custom functions, or import f
 - Create a new script.  
 - Copy the code below into your script.  
 def avg():  
-x = 128
-y = 255
-z = avg(x,y)
-print ("The average of",x,"and", y, "is", z)
+x = 128  
+y = 255  
+z = avg(x,y)  
+print ("The average of",x,"and", y, "is", z)  
 - Write the custom function avg() so that it returns the average of the given parameters.  
 ![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-06/Ex%2003.JPG?raw=true)  
 
