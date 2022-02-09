@@ -19,10 +19,10 @@ Besides the built-in functions, you can also write custom functions, or import f
 ## Exercise 2:  
 - Create a new script.  
 - Write a custom function myfunction() that prints “Hello, world!” to the terminal. Call myfunction.  
-![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/29528482c3ef4b835f81201bf4158436cf29d347/00_includes/##%20Project%20##/PRG-06/Ex%2002%2001.JPG)  
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-06/Ex%2002%2001.JPG?raw=true)  
 
 - Rewrite your function so that it takes a string as an argument. Then, it should print “Hello, <string>!”.  
-![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/29528482c3ef4b835f81201bf4158436cf29d347/00_includes/## Project ##/PRG-06/Ex 02 02.JPG)  
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-06/Ex%2002%2002.JPG?raw=true)  
 
 ## Exercise 3:  
 - Create a new script.  
@@ -33,7 +33,7 @@ y = 255
 z = avg(x,y)
 print ("The average of",x,"and", y, "is", z)
 - Write the custom function avg() so that it returns the average of the given parameters.  
-![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/29528482c3ef4b835f81201bf4158436cf29d347/00_includes/## Project ##/PRG-06/Ex 03.JPG)  
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-06/Ex%2003.JPG?raw=true)  
 
 ## Problemen:
 Voor opdracht 3 heb ik meerdere bronnen gebruikt. Met behulp van w3schools kwam ik er niet helemaal uit, maar de manier die het gemiddelde berekent op guru99 was voor mij (enigszins) begrijpbaar, waardoor ik de opdracht succesvol heb kunnen uitvoeren.
