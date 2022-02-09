@@ -32,14 +32,14 @@ for i in range(10):
 - Copy the array below into your script.
 arr = ["Coen", "Casper", "Joshua", "Abdessamad", "Saskia"]
 - Use a for loop to loop over the array. Print every name individually.  
-![Kijk]()
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-04/Ex%2003.JPG?raw=true)  
 
 ## Problemen
 Geen, ook geen hulp nodig gehad. alleen ben ik langer met deze opdrachten bezig geweest dan ik in eerste instantie zou denken.
 
 
 # Bronnen
-- https://www.w3schools.com/python/python_for_loops.asp
+- https://www.w3schools.com/python/python_for_loops.asp  
 
 
 
