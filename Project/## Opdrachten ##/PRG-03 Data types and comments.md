@@ -50,10 +50,10 @@ Zie screenshots.
 - Find out what data type the output of input() is. See if it is different for different kinds of input (numbers, words, etc.).
 ![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-03/Ex%2002%2002.JPG?raw=true)
 
-## Problemen
+## Problemen:
 Geen. 
 
-## Bronnen
+## Bronnen:
 - https://www.w3schools.com/python/python_datatypes.asp
 - https://www.w3schools.com/python/python_comments.asp
 - https://www.w3schools.com/python/ref_func_input.asp
