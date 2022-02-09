@@ -11,6 +11,7 @@ Python makes use of the *if*, *elif*, and *else* statements.
 ## Exercise 1:
 - Create a new script.
 - Use the input() function to ask the user of your script for their name. If the name they input is your name, print a personalized welcome message. If not, print a different personalized message.
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-05/Ex%2001.JPG?raw=true)  
 
 
 ## Exercise 2:
@@ -21,9 +22,8 @@ Python makes use of the *if*, *elif*, and *else* statements.
 - Make the game repeat until the user inputs 100.
 
 ## Problemen:
-Bij exercise 2 kon ik twee keer iets invoeren, daarna werd het pas afgebroken. Gelukkig zat ik in de buurt en middels trial and error + hulp van een peer heb ik de opdracht weten te voltooien.
+Bij exercise 2 kon ik twee keer iets invoeren, daarna werd het pas afgebroken. Gelukkig zat ik in de buurt en middels trial and error + hulp van een peer heb ik de opdracht weten te voltooien, maar nu stopt hij na iedere, willekeurige invoer.
 
 ## Bronnen:
-
 - https://www.w3schools.com/python/python_conditions.asp
 - https://www.w3schools.com/python/python_while_loops.asp
