@@ -9,4 +9,3 @@ try:
 except ValueError:
         print ("Je kunt enkel hele getallen invoeren! ")
 
-

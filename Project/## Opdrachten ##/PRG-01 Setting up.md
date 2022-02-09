@@ -1,4 +1,4 @@
-# PRG-01 - Setting up
+# Setting up
 
 ## Introduction:
 For a lot of IT jobs, some basic programming knowledge is required. You do not have to be able to write a script from scratch, or understand complex algorithms. You will have to be able to understand and modify code snippets to fit your needs.
