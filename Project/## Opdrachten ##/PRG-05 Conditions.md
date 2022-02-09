@@ -17,9 +17,8 @@ Python makes use of the *if*, *elif*, and *else* statements.
 ## Exercise 2:
 - Create a new script.
 - Ask the user of your script for a number. Give them a response based on whether the number is higher than, lower than, or equal to 100.
-
-
 - Make the game repeat until the user inputs 100.
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-05/Ex%2002.JPG?raw=true)
 
 ## Problemen:
 Bij exercise 2 kon ik twee keer iets invoeren, daarna werd het pas afgebroken. Gelukkig zat ik in de buurt en middels trial and error + hulp van een peer heb ik de opdracht weten te voltooien, maar nu stopt hij na iedere, willekeurige invoer.
