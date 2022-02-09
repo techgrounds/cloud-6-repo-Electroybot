@@ -36,7 +36,7 @@ print ("The average of",x,"and", y, "is", z)
 ![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-06/Ex%2003.JPG?raw=true)  
 
 ## Problemen:
-Voor opdracht 3 heb ik meerdere bronnen gebruikt. Met behulp van w3schools kwam ik er niet helemaal uit, maar de manier die het gemiddelde berekend op guru99 was voor mij (enigszins) begrijpbaar, waardoor ik de opdracht succesvol heb kunnen uitvoeren.
+Voor opdracht 3 heb ik meerdere bronnen gebruikt. Met behulp van w3schools kwam ik er niet helemaal uit, maar de wijze van een gemiddelde berekenen op guru99 is voor mij (enigszins) begrijpbaar, waardoor ik uiteindelijk de opdracht succesvol heb kunnen uitvoeren.
 
 ## Bronnen:
 - https://www.codegrepper.com/code-examples/python/how+to+use+random+in+python
