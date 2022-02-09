@@ -31,10 +31,11 @@ for i in range(10):
 - Create a new script.
 - Copy the array below into your script.
 arr = ["Coen", "Casper", "Joshua", "Abdessamad", "Saskia"]
-- Use a for loop to loop over the array. Print every name individually.
+- Use a for loop to loop over the array. Print every name individually.  
+![Kijk]()
 
 ## Problemen
-
+Geen, ook geen hulp nodig gehad. alleen ben ik langer met deze opdrachten bezig geweest dan ik in eerste instantie zou denken.
 
 
 # Bronnen
