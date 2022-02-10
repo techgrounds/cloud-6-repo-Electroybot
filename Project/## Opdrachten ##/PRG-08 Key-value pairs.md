@@ -11,7 +11,7 @@ Dicts in Python are written using curly brackets {}. You can get values from the
 
 ## Exercise 1:
 - Create a new script.
-- Create a dictionary with the following keys and values:
+- Create a dictionary with the following keys and values:  
 ![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-08/Ex%2001%2001.JPG?raw=true)  
 
 Loop over the dictionary and print every key-value pair in the terminal.  
