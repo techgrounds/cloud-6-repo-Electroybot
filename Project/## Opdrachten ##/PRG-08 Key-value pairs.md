@@ -15,16 +15,21 @@ Dicts in Python are written using curly brackets {}. You can get values from the
 ![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-08/Ex%2001%2001.JPG?raw=true)  
 
 Loop over the dictionary and print every key-value pair in the terminal.  
-![Kijk]()
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-08/Ex%2001%2002.JPG?raw=true)
 
 ## Exercise 2:  
 - Create a new script.  
 - Use user input to ask for their information (first name, last name, job title, company). Store the information in a dictionary.  
 - Write the information to a csv file (comma-separated values). The data should not be overwritten when you run the script multiple times.  
 
+### Script
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-08/Ex%2002%20Script.JPG?raw=true)  
 
-## Problemen:
+### csv  
+![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-08/Ex%2002%20csvfile.JPG?raw=true)  
 
+## Problemen:  
+De eerste opdracht was redelijk simpel naar mijn idee, maar over opdracht 2 heb ik lang gedaan, ook met hulp van mijn peers. Daar ik 'DirectWrite
 
 ## Bronnen:
 
