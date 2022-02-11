@@ -31,3 +31,4 @@ Bij opdracht 2 was er nogal sprake van een trial and error-proces, omdat dit voo
 ## Bronnen:  
 - https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/  
 - https://www.w3schools.com/python/python_lists_loop.asp  
+
