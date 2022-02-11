@@ -35,3 +35,5 @@ Conclusie: de aanhouder wint helaas niet altijd.
 ## Bronnen:
 - https://thispointer.com/different-ways-to-iterate-loop-over-a-dictionary-in-python/
 - https://www.w3school-learn.com/2021/12/python-read-and-write-csv-files.html
+- https://www.geeksforgeeks.org/writing-csv-files-in-python/
+- My peers! ;)
