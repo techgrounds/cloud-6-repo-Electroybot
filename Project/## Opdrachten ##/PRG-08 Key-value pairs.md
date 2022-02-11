@@ -29,9 +29,8 @@ Loop over the dictionary and print every key-value pair in the terminal.
 ![Kijk](https://github.com/techgrounds/cloud-6-repo-Electroybot/blob/main/00_includes/%23%23%20Project%20%23%23/PRG-08/Ex%2002%20csvfile.JPG?raw=true)  
 
 ## Problemen:  
-De eerste opdracht was redelijk simpel naar mijn idee, maar over opdracht 2 heb ik lang gedaan, ook met hulp van mijn peers. Daar ik 'DirectWrite
+De eerste opdracht was redelijk simpel naar mijn idee, maar over opdracht 2 heb ik lang gedaan, ook met hulp van mijn peers. Daar ik 'DictWriter' gebruikte i.p.v. 'writer', heb ik mijn script enigszins aangepast en toen werkte het wel. Conclusie: de aanhouder wint helaas niet altijd.
 
 ## Bronnen:
-
 - https://thispointer.com/different-ways-to-iterate-loop-over-a-dictionary-in-python/
 - https://www.w3school-learn.com/2021/12/python-read-and-write-csv-files.html
