@@ -9,3 +9,4 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2019-06-01' = {
     accessTier: 'Hot'
   }
 }
+arm 
