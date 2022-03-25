@@ -16,7 +16,6 @@ param name string
 ])
 param vaultSku string = 'standard'
 
-
 // Deploy Key Vault
 resource keyVault 'Microsoft.KeyVault/vaults@2019-09-01' = {
   name: name

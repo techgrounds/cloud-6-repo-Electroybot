@@ -56,7 +56,3 @@ done
 ## KeyVault param 
 // init-based params
 param recVltName string = 'rv${toLower(uniqueString(utcNow()))}'
-
-params
-kleine letters
-unique string
