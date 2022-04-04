@@ -54,3 +54,8 @@ v1.1
 - Run below command to deploy the infra
 
     az deployment group create --resource-group rg-training01 --template-file main.bicep --parameters '@parameters.json'
+
+
+- When the Azure resources are no longer needed, use the Azure CLI or Azure PowerShell module to delete the quickstart resource group.
+
+### az group delete --name exampleRG
