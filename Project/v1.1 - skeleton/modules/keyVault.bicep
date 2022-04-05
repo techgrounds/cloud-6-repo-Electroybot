@@ -16,9 +16,6 @@ param name string
 ])
 param vaultSku string = 'standard'
 
-@description('Optional. All secrets to create')
-@secure()
-param vaultSecrets object = {}
 
 // Deploy Key Vault
 resource keyVault 'Microsoft.KeyVault/vaults@2019-09-01' = {
@@ -37,15 +34,6 @@ resource keyVault 'Microsoft.KeyVault/vaults@2019-09-01' = {
     tenantId: subscription().tenantId
   }
 }
-
-// Create Secrets
-resource secret 'Microsoft.KeyVault/vaults/secrets@2019-09-01' = [for secret in vaultSecrets.List: {
-  name: secret.name
-  parent: keyVault
-  properties: {
-    value: secret.value 
-  }
-}]
 
 // Define Outputs
 output keyVaultName string = keyVault.name

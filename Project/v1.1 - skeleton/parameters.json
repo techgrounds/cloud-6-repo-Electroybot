@@ -3,27 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "deployVM": {
-            "value": true
+            "value": false
         },
         "keyVaultName": {
-            "value": "kv-prd-rw-test"
-        },
-        "keyVaultSecrets": {
-            "value": {
-                "List": [
-                    {
-                        "name": "adminUsername",
-                        "value": "adminUsername"
-                    },
-                    {
-                        "name": "adminPassword",
-                        "value": "adminPassword12345"
-                    }
-                ]
-            }
+            "value": "kv-prd-012348"
         },
         "storageAccountName": {
-            "value": "trainqwert128750"
+            "value": "trainqwert1234"
         },
         "appVMSSImageReference": {
             "value": {

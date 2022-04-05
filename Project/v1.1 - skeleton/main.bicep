@@ -37,10 +37,6 @@ param appLBRules array = []
 @description('Array of containing all load balancing probes.')
 param appLBProbes array = []
 
-@description('Optional. All secrets to create')
-@secure()
-param keyVaultSecrets object = {}
-
 // Deploy Key Vault
 module keyVault 'modules/keyVault.bicep' = {
   name: 'deploy-keyVault'
@@ -48,7 +44,6 @@ module keyVault 'modules/keyVault.bicep' = {
   params: {
     name: keyVaultName
     tags: tags
-    vaultSecrets: keyVaultSecrets
   }
 }
 
@@ -212,7 +207,6 @@ module appVMSS 'modules/virtualMachineScaleSets.bicep' = if (deployVM == true) {
   }
   dependsOn: [
     loadBalancers
-    keyVault
   ]
 }
 
