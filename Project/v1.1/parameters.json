@@ -77,7 +77,7 @@
                 {
                     "name": "Deny-Inbound-All",
                     "properties": {
-                        "description": "Deny Inbound All",
+                        "description": "Deny InboundAll",
                         "protocol": "*",
                         "sourcePortRange": "*",
                         "destinationPortRange": "*",
