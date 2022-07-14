@@ -44,7 +44,7 @@ Layer 7 load balancing werkt op de applicatielaag, die verantwoordelijk is voor 
 
 ### Pros of Layer 7 Load Balancing
 - Biedt slimme routering op basis van de URL.
-- Caching - **Cache** is een opslagplaats waarin gegevens tijdelijk worden opgeslagen om sneller toegang tot deze data mogelijk te maken. Het opslaan van gegevens op een sneller medium om sneller toegang tot deze data te hebben wordt caching genoemd
+- Caching - **Cache** is een opslagplaats waarin gegevens tijdelijk worden opgeslagen om sneller toegang tot deze data mogelijk te maken. Het opslaan van gegevens op een sneller medium om sneller toegang tot deze data te hebben wordt caching genoemd.
 
 ### Nadelen van Layer 7 Load Balancing
 - Duurder.
